@@ -1,0 +1,1 @@
+![Alt-текст](https://github.com/Infernalum/ASM_S02.EP02/tree/main/lab1/task_1.png)
