@@ -3,5 +3,5 @@ There are my assembly labs in this rep. I did also other labs for students and c
 ### [lab. #1:  Load, branch and math instructions](https://github.com/Infernalum/ASM_S02.EP02/tree/master/lab1)
 ### [lab. #2:  Storage of 2-dememtions matrix](https://github.com/Infernalum/ASM_S02.EP02/tree/master/lab2)
 ### [lab. #3: Strings and command line arguments](https://github.com/Infernalum/ASM_S02.EP02/tree/master/lab3)
-### [lab. #4: Floating point and working with files](https://github.com/Infernalum/ASM_S02.EP02/tree/master/lab4)
-### [lab. #5: Link ASM with C code and optimization manual optimization](https://github.com/Infernalum/ASM_S02.EP02/tree/master/lab5)
+### [lab. #4: Floating point and registers and working with files](https://github.com/Infernalum/ASM_S02.EP02/tree/master/lab4)
+### [lab. #5: Link ASM with C code and code manual optimization](https://github.com/Infernalum/ASM_S02.EP02/tree/master/lab5)
